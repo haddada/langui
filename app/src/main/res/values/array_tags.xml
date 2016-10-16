@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--
+    <string-array name="tags_dump">
+      <item>presentation</item>  <string name="presentation">presentation</string>
+        <item>meeting</item>  <string name="meeting">meeting</string>
+        <item>clothes</item>  <string name="clothes">clothes</string>
+        <item>color</item>  <string name="color">color</string>
+        <item>food</item>  <string name="food">food</string>
+        <item>wine</item>  <string name="wine">wine</string>
+        <item>house</item>  <string name="house">house</string>
+        <item>vacation</item>  <string name="vacation">vacation</string>
+        <item>travel</item>  <string name="travel">travel</string>
+        <item>celebration</item>  <string name="celebration">celebration</string>
+        <item>health</item>  <string name="health">health</string>
+        <item>school</item>  <string name="school">school</string>
+        <item>work</item>  <string name="work">work</string>
+        <item>ordinary life</item>  <string name="normal_life"> ordinary life</string>
+        <item>agency</item>  <string name="agency">agency</string>
+        <item>administration</item>  <string name="administration">administration</string>
+        <item>science</item>  <string name="science">science</string>
+    </string-array>-->
+
+</resources>
