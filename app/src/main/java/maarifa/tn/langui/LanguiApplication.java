@@ -5,7 +5,7 @@ import android.app.Application;
 import com.firebase.client.Firebase;
 
 /**
- * Created by hamza on 10/04/2016.
+ * Created by seif on 10/04/2016.
  */
 public class LanguiApplication extends Application {
 

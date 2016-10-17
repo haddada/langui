@@ -22,7 +22,7 @@ import maarifa.tn.langui.utils.Constants;
 import maarifa.tn.langui.utils.FirebaseRecyclerAdapter;
 
 /**
- * Created by hamza on 24/05/2016.
+ * Created by seif on 24/05/2016.
  */
 public class GrammarAdapter extends FirebaseRecyclerAdapter<GrammarAdapter.ViewHolder, Grammar> {
 

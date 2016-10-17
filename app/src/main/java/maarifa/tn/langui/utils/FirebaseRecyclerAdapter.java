@@ -1,7 +1,7 @@
 package maarifa.tn.langui.utils;
 
 /**
- * Created by hamza on 23/05/2016.
+ * Created by seif on 23/05/2016.
  */
 
 

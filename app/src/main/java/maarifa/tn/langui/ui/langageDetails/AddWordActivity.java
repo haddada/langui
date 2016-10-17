@@ -27,7 +27,7 @@ import maarifa.tn.langui.ui.shooseLanguage.ShooseLanguageFragment;
 import maarifa.tn.langui.utils.Constants;
 
 /**
- * Created by hamza on 24/05/2016.
+ * Created by seif on 24/05/2016.
  */
 public class AddWordActivity extends BaseActivity implements AddWordFragment.Callback ,AddSynonymsFragment.Callback,AddContextFragment.Callback
 ,AddTagsDialog.CallBack

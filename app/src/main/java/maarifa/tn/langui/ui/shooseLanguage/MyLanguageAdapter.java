@@ -22,7 +22,7 @@ import maarifa.tn.langui.R;
 import maarifa.tn.langui.model.Language;
 
 /**
- * Created by hamza on 25/04/2016.
+ * Created by seif on 25/04/2016.
  */
 public class MyLanguageAdapter extends FirebaseListAdapter<Language> {
 

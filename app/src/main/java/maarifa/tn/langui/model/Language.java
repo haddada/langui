@@ -19,7 +19,7 @@ import maarifa.tn.langui.utils.Utils;
 
 
 /**
- * Created by hamza on 22/04/2016.
+ * Created by seif on 22/04/2016.
  */
 @JsonIgnoreProperties(ignoreUnknown=true)
 @Parcel

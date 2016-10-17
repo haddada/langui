@@ -28,7 +28,7 @@ import maarifa.tn.langui.ui.shooseLanguage.ShooseLanguageAdapter;
 import maarifa.tn.langui.utils.Constants;
 
 /**
- * Created by hamza on 23/05/2016.
+ * Created by seif on 23/05/2016.
  */
 public class VocablaryFragment extends Fragment {
 

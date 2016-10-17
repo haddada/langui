@@ -1,7 +1,7 @@
 package maarifa.tn.langui.ui.shooseLanguage;
 
 /**
- * Created by hamza on 23/05/2016.
+ * Created by seif on 23/05/2016.
  */
 import android.app.Activity;
 import android.app.Application;

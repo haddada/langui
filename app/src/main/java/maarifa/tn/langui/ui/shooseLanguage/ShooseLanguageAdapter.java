@@ -1,3 +1,4 @@
+
 package maarifa.tn.langui.ui.shooseLanguage;
 
 import android.content.Context;
@@ -19,7 +20,7 @@ import maarifa.tn.langui.R;
 import maarifa.tn.langui.model.Language;
 
 /**
- * Created by hamza on 22/04/2016.
+ * Created by seif on 22/04/2016.
  */
 public class ShooseLanguageAdapter extends ArrayAdapter<Language> {
 

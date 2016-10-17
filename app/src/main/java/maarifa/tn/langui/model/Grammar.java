@@ -3,7 +3,7 @@ package maarifa.tn.langui.model;
 import org.parceler.Parcel;
 
 /**
- * Created by hamza on 24/05/2016.
+ * Created by seif on 24/05/2016.
  */
 @Parcel
 public class Grammar {

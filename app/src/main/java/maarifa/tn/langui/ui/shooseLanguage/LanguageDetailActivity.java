@@ -35,7 +35,7 @@ import maarifa.tn.langui.ui.langageDetails.VocablaryFragment;
 import maarifa.tn.langui.utils.Constants;
 
 /**
- * Created by hamza on 23/04/2016.
+ * Created by seif on 23/04/2016.
  */
 public class LanguageDetailActivity extends BaseActivity implements TabHost.OnTabChangeListener, ViewPager.OnPageChangeListener,VocablaryFragment.CallBack ,GrammarFragment.CallBack {
 

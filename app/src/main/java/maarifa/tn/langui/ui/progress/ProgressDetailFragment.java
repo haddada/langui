@@ -18,7 +18,7 @@ import maarifa.tn.langui.ui.langageDetails.VocablaryAdapter;
 import maarifa.tn.langui.utils.Constants;
 
 /**
- * Created by hamza on 28/05/2016.
+ * Created by seif on 28/05/2016.
  */
 public class ProgressDetailFragment extends Fragment {
 

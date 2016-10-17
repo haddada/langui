@@ -18,7 +18,7 @@ import android.widget.TextView;
 import maarifa.tn.langui.R;
 
 /**
- * Created by hamza on 26/05/2016.
+ * Created by seif on 26/05/2016.
  */
 public class AddTagsDialog extends DialogFragment {
     AutoCompleteTextView tagEdit;

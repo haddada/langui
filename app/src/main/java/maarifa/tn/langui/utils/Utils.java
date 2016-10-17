@@ -15,7 +15,7 @@ import java.util.TimeZone;
 import maarifa.tn.langui.R;
 
 /**
- * Created by hamza on 10/04/2016.
+ * Created by seif on 10/04/2016.
  */
 public class Utils {
 

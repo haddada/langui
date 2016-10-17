@@ -28,7 +28,7 @@ import maarifa.tn.langui.utils.Constants;
 import maarifa.tn.langui.utils.Utils;
 
 /**
- * Created by hamza on 10/04/2016.
+ * Created by seif on 10/04/2016.
  */
 public class CreateAccountActivity extends BaseActivity {
     private static final String LOG_TAG = CreateAccountActivity.class.getSimpleName();

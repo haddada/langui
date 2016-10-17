@@ -4,7 +4,7 @@ import maarifa.tn.langui.BuildConfig;
 import maarifa.tn.langui.model.data.LanguiContract;
 
 /**
- * Created by hamza on 10/04/2016.
+ * Created by seif on 10/04/2016.
  */
 public final class Constants {
 

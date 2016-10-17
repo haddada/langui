@@ -16,7 +16,7 @@ import maarifa.tn.langui.R;
 import maarifa.tn.langui.utils.Constants;
 
 /**
- * Created by hamza on 24/05/2016.
+ * Created by seif on 24/05/2016.
  */
 public class AddWordFragment extends Fragment {
 

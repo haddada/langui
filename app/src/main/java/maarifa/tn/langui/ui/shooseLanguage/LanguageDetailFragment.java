@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 import maarifa.tn.langui.R;
 
 /**
- * Created by hamza on 24/04/2016.
+ * Created by seif on 24/04/2016.
  */
 public class LanguageDetailFragment extends Fragment {
     @Override

@@ -35,7 +35,7 @@ import maarifa.tn.langui.model.data.LanguiContract;
 import maarifa.tn.langui.utils.Constants;
 
 /**
- * Created by hamza on 22/04/2016.
+ * Created by seif on 22/04/2016.
  */
 public class ShooseLanguageFragment extends Fragment {
 

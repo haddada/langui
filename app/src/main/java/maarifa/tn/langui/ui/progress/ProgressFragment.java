@@ -22,7 +22,7 @@ import maarifa.tn.langui.ui.shooseLanguage.RecyclerItemClickListener;
 import maarifa.tn.langui.utils.Constants;
 
 /**
- * Created by hamza on 28/05/2016.
+ * Created by seif on 28/05/2016.
  */
 public class ProgressFragment extends Fragment {
 

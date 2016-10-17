@@ -18,7 +18,7 @@ import maarifa.tn.langui.ui.progress.ProgressFragment;
 import maarifa.tn.langui.utils.Constants;
 
 /**
- * Created by hamza on 22/04/2016.
+ * Created by seif on 22/04/2016.
  */
 public class ShooseLanguageActivity extends MainActivity implements MyLanguagesFragment.Callback ,ProgressFragment.Callback {
 

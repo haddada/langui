@@ -15,7 +15,7 @@ import maarifa.tn.langui.utils.Constants;
 
 
 /**
- * Created by hamza on 10/04/2016.
+ * Created by seif on 10/04/2016.
  */
 public class BaseActivity extends AppCompatActivity {
 

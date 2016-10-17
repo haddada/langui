@@ -25,7 +25,7 @@ import maarifa.tn.langui.model.Language;
 import maarifa.tn.langui.utils.Constants;
 
 /**
- * Created by hamza on 23/05/2016.
+ * Created by seif on 23/05/2016.
  */
 public class MyLanguagesFragment extends Fragment {
 

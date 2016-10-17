@@ -24,7 +24,7 @@ import maarifa.tn.langui.utils.Constants;
 import maarifa.tn.langui.utils.FirebaseRecyclerAdapter;
 
 /**
- * Created by hamza on 23/05/2016.
+ * Created by seif on 23/05/2016.
  */
 public class VocablaryAdapter extends FirebaseRecyclerAdapter<VocablaryAdapter.ViewHolder, Vocablary> {
 
